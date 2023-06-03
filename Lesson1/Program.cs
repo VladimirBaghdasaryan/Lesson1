@@ -98,16 +98,17 @@
             //{
             //    Console.WriteLine(false);
             //}
+            //string name = Console.ReadLine();
+            //if (name == "Ashot" || name == "Hasmik")
+            //{
+            //    Console.WriteLine(true);
+            //}
+            //else
+            //{
+            //    Console.WriteLine(false);
+            //}
 
-            string name = Console.ReadLine();
-            if (name == "Ashot" || name == "Hasmik")
-            {
-                Console.WriteLine(true);
-            }
-            else
-            {
-                Console.WriteLine(false);
-            }
+
 
 
 
